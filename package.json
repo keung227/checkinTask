@@ -1,0 +1,20 @@
+{
+  "name": "checkintask",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "keung`",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "delay": "^2.0.0",
+    "is-valid-json": "^1.0.2",
+    "jsrsasign": "^8.0.9",
+    "named-regexp": "^0.1.1",
+    "strftime": "^0.10.0",
+    "superagent": "^3.8.2"
+  }
+}
